@@ -85,7 +85,7 @@ class pokerHand:
         return False
 
 #---------------------------------------
-# GRADE 9 AND ROYAL STRAIGHT FLUSH
+# GRADE 9 AND STRAIGHT FLUSH
 #---------------------------------------  
     def str_flu(self):
 
